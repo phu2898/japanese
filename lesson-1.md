@@ -386,11 +386,12 @@ Lưu ý khi này hãy chỉ tay, hoặc hướng mắt về người bạn muố
 
 Tuổi = Số đếm + さい
 
-Chú ý:
-1 tuổi → いっさい
-8 tuổi → はっさい
-10 tuổi → じゅっさい
-20 tuổi → はたち
+**Chú ý**:
+
+- 1 tuổi → いっさい
+- 8 tuổi → はっさい
+- 10 tuổi → じゅっさい
+- 20 tuổi → はたち
 
 Ví dụ:
 
