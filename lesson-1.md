@@ -450,7 +450,57 @@ B: よんじゅうろくさいです。
 
 ## `Từ vựng`
 
-Học từ vựng với mình qua [Memrise](https://community-courses.memrise.com/community/course/6686281/japanese-a1)
+| Tiếng Nhật     | Tiếng Việt                | Kana             |
+| -------------- | ------------------------- | ---------------- |
+| 中国           | Trung Quốc                | ちゅうごく       |
+| 韓国           | Hàn Quốc                  | かんこく         |
+| アメリカ       | Mỹ                        | アメリカ         |
+| イギリス       | Anh                       | イギリス         |
+| ドイツ         | Đức                       | ドイツ           |
+| フランス       | Pháp                      | フランス         |
+| 日本           | Nhật Bản                  | にほん／にっぽん |
+| インド         | Ấn Độ                     | インド           |
+| インドネシア   | Indonesia                 | インドネシア     |
+| イタリア       | Ý                         | イタリア         |
+| 貴方           | Bạn, anh, chị             | あなた           |
+| 学生           | Học sinh, sinh viên       | がくせい         |
+| エンジニア     | Kỹ sư                     | エンジニア       |
+| 銀行員         | Nhân viên ngân hàng       | ぎんこういん     |
+| 研究者         | Nhà nghiên cứu            | けんきゅうしゃ   |
+| 大学           | Trường đại học            | だいがく         |
+| 先生           | Thầy giáo, cô giáo        | せんせい         |
+| 会社員         | Nhân viên công ty         | かいしゃいん     |
+| 病院           | Bệnh viện                 | びょういん       |
+| 医者           | Bác sĩ                    | いしゃ           |
+| 宜しく         | Xin hãy giúp đỡ           | よろしく         |
+| 教師           | Giáo viên                 | きょうし         |
+| 受講者         | Học viên                  | じゅこうしゃ     |
+| 友達           | Bạn, bạn bè               | ともだち         |
+| 隣の人         | Người ngồi cạnh           | となりのひと     |
+| 鍵             | Chìa khóa                 | かぎ             |
+| 傘             | Cái ô                     | かさ             |
+| 本             | Sách                      | ほん             |
+| 歳             | Tuổi                      | さい             |
+| 会社           | Công ty                   | かいしゃ         |
+| 会話           | Cuộc hội thoại, giao tiếp | かいわ           |
+| 学校           | Trường học                | がっこう         |
+| 教室           | Phòng học                 | きょうしつ       |
+| 授業           | Giờ học, buổi học         | じゅぎょう       |
+| 事務室         | Phòng làm việc, văn phòng | じむしつ         |
+| 椅子           | Cái ghế                   | いす             |
+| 机             | Bàn                       | つくえ           |
+| 鉛筆           | Bút chì                   | えんぴつ         |
+| ペン           | Bút máy                   | ペン             |
+| 消しゴム       | Cục tẩy                   | けしゴム         |
+| ノート         | Vở                        | ノート           |
+| 辞書           | Từ điển                   | じしょ           |
+| 携帯電話       | Điện thoại di động        | けいたいでんわ   |
+| 電話           | Điện thoại                | でんわ           |
+| 教科書         | Sách giáo khoa            | きょうかしょ     |
+| コンピューター | Máy vi tính               | コンピューター   |
+| ホワイトボード | Bảng trắng                | ホワイトボード   |
+
+---
 
 ## `Nguồn tham khảo`
 
