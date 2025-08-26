@@ -2,6 +2,140 @@
 
 ## `Hiểu`
 
+### `Các cách điểm danh trong lớp`
+
+- せんせい (sensee) — Giáo viên / thầy / cô
+
+- きょうしつ (kyooshitsu) — Lớp học
+
+Hội thoại mẫu
+
+- キムさん、いますか。
+
+  Bạn Kim có mặt không?
+
+  - はい。
+
+    Vâng / Có.
+
+  - はい、います。
+
+    Vâng, em có mặt.
+
+  - いません。
+
+    Imasen. — Không có mặt.
+
+  - いいえ、まだです。
+
+    Iie, mada desu. — Chưa đến ạ.
+
+### `Các câu dùng để ra hướng dẫn`
+
+Được dùng khi giáo viên đưa ra hướng dẫn cho học sinh trong lớp. Cũng có thể dùng như những câu diễn đạt yêu cầu.
+
+| **Kanji**                | **Tiếng Việt**             | **Kana**                 |
+| ------------------------ | -------------------------- | ------------------------ |
+| 聞いてください           | Hãy nghe / Làm ơn hãy nghe | きいてください           |
+| 書いてください           | Hãy viết / Làm ơn hãy viết | かいてください           |
+| 読んでください           | Hãy đọc / Làm ơn hãy đọc   | よんでください           |
+| ３ページを開けてください | Hãy mở đến trang 3         | ３ページをあけてください |
+| 言ってください           | Hãy nói / Làm ơn hãy nói   | いってください           |
+| 見てください             | Hãy nhìn / Làm ơn hãy nhìn | みてください             |
+| ペアで話してください     | Hãy nói chuyện theo cặp    | ペアではなしてください   |
+
+### `Diễn đạt trong lớp học`
+
+じゅぎょうを　はじめます。
+Jugyoo o hajimemasu.
+Bắt đầu buổi học.
+
+じゅぎょうを　おわります。
+Jugyoo o owarimasu.
+Kết thúc buổi học.
+
+わかりました。
+Wakarimashita.
+Tôi hiểu rồi.
+
+わかりません。
+Wakarimasen.
+Tôi không hiểu.
+
+もういちど　おねがいします。
+Moo ichido onegaishimasu.
+Làm ơn nhắc lại một lần nữa.
+
+もうすこし　ゆっくり　いって　ください。
+Moo sukoshi yukkuri itte kudasai.
+Làm ơn nói chậm hơn một chút.
+
+せんせい、「きょうしつ」って　どういう　いみですか。
+Sensee, “kyooshitsu” tte doo yuu imi desu ka.
+Thưa thầy/cô, “kyoushitsu” nghĩa là gì?
+
+えいごで “classroom” ですよ。
+Eego de “classroom” desu yo.
+Trong tiếng Anh là “classroom”.
+
+### `Các cách diễn đạt học sinh dùng khi nói với giáo viên`
+
+しつれいします。
+Shitsureeshimasu.
+Xin phép.
+
+Được dùng như một lời chào nhẹ khi ra khỏi phòng, khi bước vào phòng học hoặc cuộc họp, kể cả giữa giờ. Có thể dùng biến thể như:
+
+「ちょっと、しつれいします。」(Chotto, shitsureeshimasu.) – Xin phép một chút.
+
+「すみません。しつれいします。」(Sumimasen. Shitsureeshimasu.) – Xin lỗi, cho phép tôi.
+
+Trong Bài 1, có câu 「おさきに　しつれいします。」(Osaki ni shitsureeshimasu.) – Xin phép về trước (dùng nơi làm việc).
+
+すみません。おくれます。
+Sumimasen. Okuremasu.
+Xin lỗi, tôi sẽ đến muộn.
+
+Nếu đến muộn, hãy báo cho giáo viên trước giờ học bằng câu này. Nếu nghỉ học, dùng:
+
+「やすみます。」(Yasumimasu.) – Tôi sẽ vắng mặt.
+
+### `さん và さま`
+
+Cả “さん (san)” và “さま (sama)” đều là hậu tố kính ngữ
+
+Đều được gắn sau tên người (hoặc chức vụ) để thể hiện sự tôn trọng.
+
+Nhưng mức độ trang trọng khác nhau — sama > san.
+
+#### `さん`
+
+Cách dùng:
+
+Gọi đồng nghiệp, bạn mới quen, khách hàng thông thường.
+
+Gọi cả nam lẫn nữ, dùng được với họ hoặc tên.
+
+#### `さま`
+
+Mức độ: cao hơn san một bậc — thể hiện kính trọng, khiêm nhường, tôn vinh.
+
+Cách dùng chính:
+
+- Trong dịch vụ: nhân viên gọi khách là お客様 (okyakusama) hoặc viết tên khách kèm “様” trong email/hoá đơn.
+
+- Trong thư tín hoặc thông báo trang trọng: 山田様 (Yamada-sama).
+
+- Khi nói về người có địa vị rất cao, hoặc khi muốn thể hiện cực kỳ kính trọng.
+
+Cách dùng mang nghĩa đặc biệt:
+
+- Trong anime/manga, đôi khi dùng sama để tỏ sự tôn thờ hoặc kính nể đặc biệt (kiểu “thần tượng-sama”).
+
+- Trong tôn giáo hoặc thần thoại: dùng để gọi thần linh (例: 神様 kamisama = thần linh).
+
+**Lưu ý**: Không nên dùng “sama” với bạn bè, đồng nghiệp ngang hàng — nghe quá xa cách, kiểu “ngài…”.
+
 ## `Ngữ pháp`
 
 ### `これ ~ / それ ~/ あれ ~`
@@ -478,6 +612,27 @@ Thế à.
 | 椅子                           | Cái ghế                                     | いす                                  |
 | アニメ                         | Phim hoạt hình                              | アニメ                                |
 | クラス                         | Lớp học                                     | クラス                                |
+| くに                           | quốc gia                                    | くに                                  |
+| なまえ                         | tên                                         | なまえ                                |
+| まち                           | thị trấn / thành phố nhỏ                    | まち                                  |
+| エアコン                       | máy điều hoà                                | エアコン                              |
+| エジプト                       | Ai Cập                                      | エジプト                              |
+| カメラ                         | máy ảnh                                     | カメラ                                |
+| カラオケ                       | karaoke                                     | カラオケ                              |
+| コーヒー                       | cà phê                                      | コーヒー                              |
+| シャツ                         | áo sơ mi                                    | シャツ                                |
+| シャワー                       | vòi sen / tắm hoa sen                       | シャワー                              |
+| ジュース                       | nước trái cây                               | ジュース                              |
+| ソファ                         | ghế sofa                                    | ソファ                                |
+| タクシー                       | taxi                                        | タクシー                              |
+| テレビ                         | tivi                                        | テレビ                                |
+| テーブル                       | bàn                                         | テーブル                              |
+| トイレ                         | nhà vệ sinh                                 | トイレ                                |
+| パン                           | bánh mì                                     | パン                                  |
+| パーティー                     | tiệc                                        | パーティー                            |
+| ピアノ                         | đàn piano                                   | ピアノ                                |
+| ベッド                         | giường                                      | ベッド                                |
+| ホテル                         | khách sạn                                   | ホテル                                |
 
 ## `Nguồn tham khảo`
 
