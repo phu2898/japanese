@@ -136,6 +136,70 @@ Cách dùng mang nghĩa đặc biệt:
 
 **Lưu ý**: Không nên dùng “sama” với bạn bè, đồng nghiệp ngang hàng — nghe quá xa cách, kiểu “ngài…”.
 
+### `Âm dài trong Katakana (Long vowel sounds)`
+
+Âm dài trong katakana được biểu thị bằng ký hiệu「ー」cho tất cả nguyên âm.
+
+Khi viết ngang, dấu kéo dài là ngang (ー); khi viết dọc, dấu kéo dài cũng dọc.
+
+Ví dụ:
+
+テーブル – cái bàn (teeburu)
+
+コーヒー – cà phê (koohii)
+
+Từ mượn thường viết bằng katakana.
+
+Để diễn đạt âm không có trong tiếng Nhật, katakana dùng tổ hợp ký tự đặc biệt không xuất hiện trong hiragana.
+
+Ví dụ:
+
+ジェスチャー – cử chỉ (gesture) (jesuchaa)
+
+ソファ – ghế sofa (sofa)
+
+フィリピン – Philippines (Firipin)
+
+パーティー – tiệc (party) (paathii)
+
+![](images/l2-1.png)
+
+### `Cách viết tên riêng bằng Katakana`
+
+Không dùng chính tả gốc của ngôn ngữ khác.
+
+Nghe phát âm → chia theo đơn vị “phụ âm + nguyên âm” hoặc “nguyên âm” → đổi sang âm gần nhất trong Katakana.
+
+Nếu phụ âm đứng cuối, thêm nguyên âm đệm:
+
+- với d và t → thêm o
+
+- các phụ âm khác → thêm u
+
+Ví dụ tách âm:
+
+- Yani → ヤ (Ya) + ニ (Ni)
+
+- Maria → マ (Ma) + リ (Ri) + ア (A)
+
+Ví dụ thêm nguyên âm đệm:
+
+- Ahmad → アフマド (Afumado)
+
+- Tawat → タワット (Tawatto)
+
+- Kim → キム (Kimu)
+
+- Somchai → ソムチャイ (Somuchai)
+
+Lưu ý về âm nhấn (accent): Âm nhấn có thể trở thành trường âm「ー」hoặc phụ âm kép (ッ).
+
+Ví dụ:
+
+- David → デービッド (Deebiddo)
+
+- Christina → クリスティーナ (Kurisuthiina)
+
 ## `Ngữ pháp`
 
 ### `これ ~ / それ ~/ あれ ~`
