@@ -352,7 +352,29 @@ Ví dụ:
 | そちら           | Phía đó, đằng đó, chỗ đó (lịch sự)    | そちら           |
 | あちら           | Phía kia, đằng kia, chỗ kia (lịch sự) | あちら           |
 | 幾ら             | Bao nhiêu tiền                        | いくら           |
-| カフェ           | Quán c                                |
+| カフェ           | Quán cafe                             |
+| エアコン         | Máy lạnh                              | エアコン         |
+| カメラ           | Máy ảnh                               | カメラ           |
+| カラオケ         | Karaoke                               | カラオケ         |
+| コーヒー         | Cà phê                                | コーヒー         |
+| シャツ           | Áo sơ mi                              | シャツ           |
+| シャワー         | Vòi sen                               | シャワー         |
+| ジュース         | Nước hoa quả                          | ジュース         |
+| ソファ           | Sofa                                  | ソファ           |
+| タクシー         | Taxi                                  | タクシー         |
+| テレビ           | Tivi                                  | テレビ           |
+| テーブル         | Bàn                                   | テーブル         |
+| トイレ           | Nhà vệ sinh                           | トイレ           |
+| パリ             | Paris                                 | パリ             |
+| パン             | Bánh mì                               | パン             |
+| パーティー       | Tiệc                                  | パーティー       |
+| ピアノ           | Đàn piano                             | ピアノ           |
+| ベッド           | Giường                                | ベッド           |
+| ホテル           | Khách sạn                             | ホテル           |
+| マンガ           | Truyện tranh                          | マンガ           |
+| レストラン       | Nhà hàng                              | レストラン       |
+| なまえ           | Tên                                   | なまえ           |
+| まち             | Thành phố / Thị trấn                  | まち             |
 
 ## `Nguồn tham khảo`
 
